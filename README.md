@@ -14,6 +14,8 @@ This repository is a clone of https://github.com/varadbhogayata/varadbhogayata.g
 ![image](https://github.com/divyaK15/divyak15.github.io/assets/42633377/93ec08a3-c4b3-4d22-9f16-324d7fcb9743)
 
 # Activity 3
+<img width="1438" alt="Screen Shot 2023-09-27 at 12 46 19 PM" src="https://github.com/divyaK15/divyak15.github.io/assets/42633377/46cb3eec-50df-4d4c-8eb8-ff5a0969db5f">
+
 ![image](https://github.com/divyaK15/divyak15.github.io/assets/42633377/9d315434-56f7-45b3-9ccb-89dfec825603)
 
 <img width="1430" alt="Screen Shot 2023-09-27 at 12 45 37 PM" src="https://github.com/divyaK15/divyak15.github.io/assets/42633377/2864b39f-8c53-4ac4-939c-9a49007425ac">
